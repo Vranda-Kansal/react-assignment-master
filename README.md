@@ -8,7 +8,7 @@ See __[documentation](api/README.md)__ for the API.
 The application must implement the following views according the [design spec](./design-spec.pdf):
 
 * __My shifts__
-  * lists all booked shifts
+  * lists all booked shifts 
   * shifts are grouped by dates
   * shifts can be cancelled
 * __Available shifts__
@@ -31,15 +31,23 @@ Submission:
 * include instructions how to run the app
 * 3rd party libraries may be used
 
-## Mock API run instructions
+## frontend run instructions
 
 Requirements:
 
 * Node.js (recommended v. >=9)
 * NPM v. >=5
 
+  ```bash
+cd client
+npm i
+npm start
+```
+
+# #for Mock API instruction
+
 ```bash
-npm install
+npm i
 npm start
 ```
 
