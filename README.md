@@ -38,13 +38,13 @@ Requirements:
 * Node.js (recommended v. >=9)
 * NPM v. >=5
 
-  ```bash
+```bash
 cd client
 npm i
 npm start
 ```
 
-# #for Mock API instruction
+## for Mock API instruction
 
 ```bash
 npm i
